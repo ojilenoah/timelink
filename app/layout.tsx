@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Timelink",
   description: "Personal daily assistant",
-    generator: 'v0.dev'
+    generator: 'Noah Ojile'
 }
 
 export default function RootLayout({
